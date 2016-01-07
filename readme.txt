@@ -3,7 +3,7 @@ Creating a new branch is quick AND simple.
 Creating a new branch is quick!
 A new Github user is coming !!!
 Git is a version control system.
-Git is free software.
+Git is free software for us.
 Git is a distributed version control system.
 Git is free software.
 Git is a distributed version control system.
