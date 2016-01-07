@@ -1,3 +1,4 @@
+duo ren xie zuo fen zhi.
 fen zhi guan li ce lue.
 Creating a new branch is quick AND simple.
 Creating a new branch is quick!
